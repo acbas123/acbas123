@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on Software Engineering
 - 📫 How to reach me just email me acbasilio07@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like watching movies, playing basketball, playing games most especially I love programming
 
 <!---
 acbas123/acbas123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
