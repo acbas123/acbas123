@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @acbasilio
+- 👋 Hi, I’m Ac Basilio
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on Software Engineering
